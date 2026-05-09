@@ -6,7 +6,7 @@ The portfolio showcases my projects, technical skills, animations, parallax effe
 
 ## 🚀 Live Portfolio
 
-https://YOUR-VERCEL-URL.vercel.app
+https://my-portfolio-chi-rust-49.vercel.app
 
 ## 📂 GitHub Repository
 
