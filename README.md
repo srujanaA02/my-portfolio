@@ -10,7 +10,7 @@ https://YOUR-VERCEL-URL.vercel.app
 
 ## 📂 GitHub Repository
 
-https://github.com/srujanaA02
+https://github.com/srujanaA02/my-portfolio
 
 ## 🛠️ Tech Stack
 
